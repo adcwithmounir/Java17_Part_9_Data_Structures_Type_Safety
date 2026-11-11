@@ -38,7 +38,7 @@ All examples are built around the same **streaming-platform project** as the pre
 | # | Folder | Video topic | What you'll learn | Status |
 |:-:|---|---|---|:-:|
 | 1 | `Part_9_1_Data_Structures_Type_Safety` | **The methods every collection shares** | The four families of collections, generics and the diamond operator, `add`, `remove`, `size`, `isEmpty`, `clear`, `contains`, `removeIf`, `forEach`, `equals` | ✅ |
-| 2 | `Part_9_2_Data_Structures_Type_Safety` | **Lists** | Ordered collections with an index: `ArrayList`, `LinkedList` and the `List` methods | 🔜 |
+| 2 | `Part_9_2_Data_Structures_Type_Safety` | **Keeping things in order with lists** | `ArrayList` or `LinkedList`, `Arrays.asList`, `List.of`, `List.copyOf`, `add`/`get`/`set`/`remove` by index, `replaceAll`, `toArray` | ✅ |
 | 3 | `Part_9_3_Data_Structures_Type_Safety` | **Sets** | Unique elements: `HashSet` and `TreeSet` | 🔜 |
 | 4 | `Part_9_4_Data_Structures_Type_Safety` | **Queues and deques** | Processing order, working at both ends, stacks | 🔜 |
 | 5 | `Part_9_5_Data_Structures_Type_Safety` | **Maps** | Keys and values: `HashMap`, `TreeMap` and the `Map` methods | 🔜 |
