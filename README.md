@@ -42,7 +42,7 @@ All examples are built around the same **streaming-platform project** as the pre
 | 3 | `Part_9_3_Data_Structures_Type_Safety` | **Sets never hold the same thing twice** | `HashSet` or `TreeSet`, `add` returning `false` on a duplicate, `hashCode` and `equals`, `Set.of`, `Set.copyOf`, `null` and `Comparable` rules, `contains`, `remove`, `removeIf` | ✅ |
 | 4 | `Part_9_4_Data_Structures_Type_Safety` | **Lining up data with queues and stacks** | `Queue` and `Deque`, `ArrayDeque` or `LinkedList`, `offer`/`peek`/`poll` vs `add`/`element`/`remove`, `offerFirst`/`offerLast`, `push`/`pop` as a stack | ✅ |
 | 5 | `Part_9_5_Data_Structures_Type_Safety` | **Looking things up by key with maps** | `HashMap` or `TreeMap`, `Map.of`, `Map.ofEntries`, `Map.copyOf`, `put`/`get`/`containsKey`, `forEach`, `keySet`/`values`/`entrySet`, `getOrDefault`, `putIfAbsent`, `merge` | ✅ |
-| 6 | `Part_9_6_Data_Structures_Type_Safety` | **Choosing the right collection** | Comparing the collection types and their behavior | 🔜 |
+| 6 | `Part_9_6_Data_Structures_Type_Safety` | **Choosing the right collection for the job** | Lists, sets, queues and maps compared: duplicates, order, sorting (`hashCode` or `compareTo`), `null`, how to pick one, `Vector`/`Hashtable`/`Stack` | ✅ |
 | 7 | `Part_9_7_Data_Structures_Type_Safety` | **Sorting** | `Comparable`, `Comparator` and sorting your data | 🔜 |
 | 8 | `Part_9_8_Data_Structures_Type_Safety` | **Generics** | Generic classes, interfaces and methods, bounds and wildcards | 🔜 |
 | 9 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | 🔜 |
