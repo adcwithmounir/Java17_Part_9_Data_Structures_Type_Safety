@@ -40,7 +40,7 @@ All examples are built around the same **streaming-platform project** as the pre
 | 1 | `Part_9_1_Data_Structures_Type_Safety` | **The methods every collection shares** | The four families of collections, generics and the diamond operator, `add`, `remove`, `size`, `isEmpty`, `clear`, `contains`, `removeIf`, `forEach`, `equals` | ✅ |
 | 2 | `Part_9_2_Data_Structures_Type_Safety` | **Keeping things in order with lists** | `ArrayList` or `LinkedList`, `Arrays.asList`, `List.of`, `List.copyOf`, `add`/`get`/`set`/`remove` by index, `replaceAll`, `toArray` | ✅ |
 | 3 | `Part_9_3_Data_Structures_Type_Safety` | **Sets never hold the same thing twice** | `HashSet` or `TreeSet`, `add` returning `false` on a duplicate, `hashCode` and `equals`, `Set.of`, `Set.copyOf`, `null` and `Comparable` rules, `contains`, `remove`, `removeIf` | ✅ |
-| 4 | `Part_9_4_Data_Structures_Type_Safety` | **Queues and deques** | Processing order, working at both ends, stacks | 🔜 |
+| 4 | `Part_9_4_Data_Structures_Type_Safety` | **Lining up data with queues and stacks** | `Queue` and `Deque`, `ArrayDeque` or `LinkedList`, `offer`/`peek`/`poll` vs `add`/`element`/`remove`, `offerFirst`/`offerLast`, `push`/`pop` as a stack | ✅ |
 | 5 | `Part_9_5_Data_Structures_Type_Safety` | **Maps** | Keys and values: `HashMap`, `TreeMap` and the `Map` methods | 🔜 |
 | 6 | `Part_9_6_Data_Structures_Type_Safety` | **Choosing the right collection** | Comparing the collection types and their behavior | 🔜 |
 | 7 | `Part_9_7_Data_Structures_Type_Safety` | **Sorting** | `Comparable`, `Comparator` and sorting your data | 🔜 |
