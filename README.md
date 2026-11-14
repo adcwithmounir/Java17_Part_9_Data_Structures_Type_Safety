@@ -45,7 +45,7 @@ All examples are built around the same **streaming-platform project** as the pre
 | 6 | `Part_9_6_Data_Structures_Type_Safety` | **Choosing the right collection for the job** | Lists, sets, queues and maps compared: duplicates, order, sorting (`hashCode` or `compareTo`), `null`, how to pick one, `Vector`/`Hashtable`/`Stack` | ✅ |
 | 7 | `Part_9_7_Data_Structures_Type_Safety` | **Teaching Java how to order your objects** | `Comparable` and `compareTo`, `Comparator` and lambdas, `comparing`/`thenComparing`/`reversed`, `Collections.sort` and `binarySearch` | ✅ |
 | 8 | `Part_9_8_Data_Structures_Type_Safety` | **Writing code that works with any type** | Generic classes, records, interfaces and methods, type erasure, what generics can't do, wildcards `?`, `? extends` and `? super` | ✅ |
-| 9 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | 🔜 |
+| 9 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | ✅ |
 
 > ✅ Available · 🔜 Coming soon — the repo is updated as new videos are released.
 
